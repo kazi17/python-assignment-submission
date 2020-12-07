@@ -1,0 +1,18 @@
+cd
+pwd
+
+cd D:
+
+cd python-assignment-submission
+
+git config user.name
+
+git config user.email
+
+git push -u origin main
+
+git status 
+
+git add session-2
+
+git push -u origin main 
